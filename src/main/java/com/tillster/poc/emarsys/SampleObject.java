@@ -7,7 +7,10 @@ import lombok.Data;
 @Builder
 public class SampleObject {
 
-    private String fieldOne;
-    private String fieldTwo;
-    private String fieldThree;
+    private String itemId;
+    private String price;
+    private String orderId;
+    private String timestamp;
+    private String customerIdentifier;
+    private String quantity;
 }

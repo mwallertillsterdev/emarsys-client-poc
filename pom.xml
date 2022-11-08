@@ -38,6 +38,11 @@
 			<artifactId>json-model</artifactId>
 		</dependency>-->
 		<dependency>
+			<groupId>com.tillster.platform.ws.api</groupId>
+			<artifactId>ordering-admin-api</artifactId>
+			<version>5.0.509-master</version>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jersey</artifactId>
 		</dependency>

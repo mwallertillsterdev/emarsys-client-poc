@@ -1,0 +1,1 @@
+INSERT INTO `mobilem8`.`admin_user_tbl` (`firstname`, `lastname`, `email`, `password`, `access`, `tenant_id`) VALUES ('emarsys', 'exporter', 'emarsys@tillster.com', '$2a$10$STL45llDB/J2Ritb56riKOp70S6LyC4Sd91ql3lD4V6.hEXO1dXTW', 'IT_MANAGEMENT', '1');
